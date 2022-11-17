@@ -1,4 +1,4 @@
-# TMy solution
+# My solution
 
 ## Instrcutions
 
